@@ -1,0 +1,15 @@
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/bin/Debug/net5.0/FactoryMethod.deps.json
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/bin/Debug/net5.0/FactoryMethod.runtimeconfig.json
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/bin/Debug/net5.0/FactoryMethod.runtimeconfig.dev.json
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/bin/Debug/net5.0/FactoryMethod.dll
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/bin/Debug/net5.0/ref/FactoryMethod.dll
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/bin/Debug/net5.0/FactoryMethod.pdb
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.csprojAssemblyReference.cache
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.AssemblyInfoInputs.cache
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.AssemblyInfo.cs
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.dll
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/obj/Debug/net5.0/ref/FactoryMethod.dll
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.pdb
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/FactoryMethod/obj/Debug/net5.0/FactoryMethod.genruntimeconfig.cache

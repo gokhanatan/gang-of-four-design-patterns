@@ -1,0 +1,15 @@
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/bin/Debug/net5.0/AbstractFactory.deps.json
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.json
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.dev.json
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/bin/Debug/net5.0/AbstractFactory.dll
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/bin/Debug/net5.0/ref/AbstractFactory.dll
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/bin/Debug/net5.0/AbstractFactory.pdb
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csprojAssemblyReference.cache
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/obj/Debug/net5.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfo.cs
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/obj/Debug/net5.0/AbstractFactory.dll
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/obj/Debug/net5.0/ref/AbstractFactory.dll
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/obj/Debug/net5.0/AbstractFactory.pdb
+/Users/gkhnatn/Projects/C#/Practices/DesignPatterns/creational/AbstractFactory/obj/Debug/net5.0/AbstractFactory.genruntimeconfig.cache
